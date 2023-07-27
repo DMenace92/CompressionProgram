@@ -1,0 +1,18 @@
+{
+  "name": "compressionmodule",
+  "version": "1.0.0",
+  "description": "Compression software",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "author": "Dennis A, Enwiya",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
